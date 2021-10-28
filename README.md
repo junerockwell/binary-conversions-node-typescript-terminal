@@ -10,6 +10,9 @@ After reviewing and re-understanding how to convert binary to decimal and decima
 
 Also: The prompts should be straightfoward enough for usage instructions / nagivations. If not, let me knooooow!
 
+## C++ Counterpart
+https://github.com/junerockwell/binary-conversions-in-c-plus-plus
+
 ## Get Started
 ### Install NodeJS and NPM
 The link should give you an executable file that contains NodeJS and NPM.
